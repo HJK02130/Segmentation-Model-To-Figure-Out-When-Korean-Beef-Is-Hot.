@@ -1,5 +1,5 @@
-# <div align=center> Computer Science 학습을 위한 <br /> YouTube 강의 영상 추천 시스템 </div>
-### <div align=center> YouTube lecture video recommendation system for computer science learning
+# <div align=center> 이미지 분류 모델을 통한 한우 발정 시기 파악 </div>
+### <div align=center> Segmentation Model To Figure Out When Korean Beef Is Hot
  </div>
 
 <div align=center>
